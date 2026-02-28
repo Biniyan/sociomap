@@ -1,0 +1,5 @@
+{
+  "name": "Nepal Academic GIS",
+  "description": "A comprehensive interactive GIS for Grade 10 students in Nepal. Features detailed maps of mountains, rivers, highways, protected areas, religious sites, and national pride projects, with a built-in Gemini Geography Assistant.",
+  "requestFramePermissions": []
+}
